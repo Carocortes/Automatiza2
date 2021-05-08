@@ -27,7 +27,7 @@ public class AmazonRegistroPagina {
 		PageFactory.initElements(driver, this);
 	}
 	
-	@Step //Identificar los pasos que va a realizar..
+	@Step //Identificar los pasos que va a realizar.
 	
 	public void RegistroAmazone() {
 		btnCrear.click();
